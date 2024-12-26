@@ -15,5 +15,5 @@
 ## 🌐 Hubungi Saya
 
 - 📧 Email: faizbintang1244@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/username)  
-- 🌍 [Portofolio](https://your-website.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/faiz-pratama/))  
+- 🌍 [Portofolio](https://faizpi.github.io/myportofolio/))
