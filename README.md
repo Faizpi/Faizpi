@@ -4,7 +4,7 @@
 
 <p align="left">I'm a passionate student and aspiring Web Developer from Indonesia</p>
 
-More about me: [My Portfolio](https://faizpi.dev)
+More about me: [My Portfolio](https://faizpi.github.io/myportofolio/)
 
 ###
 
