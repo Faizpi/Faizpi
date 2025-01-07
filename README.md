@@ -17,7 +17,7 @@ More about me: [My Portfolio](https://faizpi.github.io/myportofolio/)
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
@@ -65,7 +65,7 @@ More about me: [My Portfolio](https://faizpi.github.io/myportofolio/)
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
 </div>
 
 ###
