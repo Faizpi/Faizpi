@@ -3,18 +3,25 @@
 <p align="left">I'm a passionate student and aspiring Web Developer from Indonesia</p>
 
 **More about me:** [My Portfolio](https://faizpi.github.io/myportofolio/)
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 ---
 
 <div align="center">
   <!-- Stats Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizpi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" width="450" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizpi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" width="200" alt="stats graph" />
   
   <!-- Streak Graph -->
-  <img src="https://streak-stats.demolab.com?user=Faizpi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" width="450" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Faizpi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" width="200" alt="streak graph" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizpi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" width="450" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizpi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" width="200" alt="languages graph" />
 </div>
 
 ---
