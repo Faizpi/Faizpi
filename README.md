@@ -1,4 +1,9 @@
-<h2 align="center">Hi 👋! I'm Muhammad Faiz Bintang Pratama</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Faizpi.Faizpi" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Faiz+Bintang+Pratama!;" />
+</h1>
+
 <p align="center">A passionate student and aspiring Web Developer from Indonesia 🇲🇨</p>
 
 <div align="center">
