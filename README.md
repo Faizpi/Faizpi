@@ -39,6 +39,11 @@
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
 ### 🌐 **Connect with Me**
 <div align="center">
   <a href="https://www.instagram.com/faiz_pratama02" target="_blank">
