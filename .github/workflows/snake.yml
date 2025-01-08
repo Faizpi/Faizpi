@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Setiap hari pada tengah malam
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Image
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }} # Menggunakan username GitHub repositori
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload Snake Image as Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-images
+          path: dist/
