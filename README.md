@@ -1,4 +1,3 @@
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 <h2 align="left">Hi 👋! I'm Muhammad Faiz Bintang Pratama</h2>
 
 <p align="left">I'm a passionate student and aspiring Web Developer from Indonesia</p>
