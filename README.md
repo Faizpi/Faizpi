@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋! I'm Muhammad Faiz Bintang Pratama</h2>
-
 <p align="center">A passionate student and aspiring Web Developer from Indonesia 🇲🇨</p>
 
 <div align="center">
@@ -13,19 +12,21 @@
 
 ---
 
-<p align="center">
+### 🐍 **Contribution Graph**
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
+</div>
 
 ---
 
+### 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizpi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Faizpi&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizpi&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizpi&layout=compact&langs_count=5&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
@@ -39,8 +40,10 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ **Random Dev Quote**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
 
 ---
 
