@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <a href="https://faizpi.github.io/myportofolio/](https://faizpi.github.io/Faiz-Dev/" target="_blank">
+  <a href="https://faizpi.github.io/Faiz-Dev/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My_Portfolio-1abc9c?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/faiz-pratama/" target="_blank">
