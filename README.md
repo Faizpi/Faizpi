@@ -66,7 +66,7 @@
   <a href="mailto:faizbintang1244@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://faizpi.github.io/myportofolio/" target="_blank">
+  <a href="https://faizpi.github.io/Faiz-Dev/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?logo=googlechrome&logoColor=white&style=for-the-badge" height="35" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/faiz-pratama/" target="_blank">
