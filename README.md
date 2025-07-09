@@ -44,7 +44,7 @@
 ---
 
 ### 🛠️ **Tech Stack & Tools**
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;"> <img src="https://skillicons.dev/icons?i=html,css,js,php,py,cs,cpp" height="40" alt="Languages" /> <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,laravel" height="40" alt="Frameworks" /> <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" height="40" alt="Databases & VCS" /> <img src="https://skillicons.dev/icons?i=figma,canva,vscode" height="40" alt="Tools & Design" /> </div>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;"> <img src="https://skillicons.dev/icons?i=html,css,js,php,py,cs,cpp" height="40" alt="Languages" /> <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,laravel" height="40" alt="Frameworks" /> <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" height="40" alt="Databases & VCS" /> <img src="https://skillicons.dev/icons?i=figma,vscode" height="40" alt="Tools & Design" /> </div>
 
 ---
 
