@@ -3,6 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: '0 0 * * *' # Setiap hari pada tengah malam
+  workflow_dispatch: # biar bisa dijalankan manual juga
   push:
     branches:
       - main
@@ -19,12 +20,14 @@ jobs:
         with:
           github_user_name: Faizpi
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Upload Snake Image as Artifact
-        uses: actions/upload-artifact@v4
+      - name: Push Snake Images to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          name: snake-images
-          path: dist/
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
