@@ -37,8 +37,7 @@
 ### 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizpi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizpi&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizpi&layout=compact&langs_count=5&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizpi&theme=tokyonight&hide_border=true&background=00000000&ring=2196f3&fire=2196f3&currStreakLabel=2196f3"/>    
 </div>
 
 ---
