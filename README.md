@@ -32,7 +32,6 @@
   </picture>
 </div>
 
-
 ---
 
 ### 📊 **GitHub Stats**
