@@ -34,8 +34,14 @@
 
 ---
 
+### 📊 **GitHub Stats**
+<div align="center">
+  <img alt="GitHub Stats" class="w-full rounded-lg" src="https://github-readme-stats.vercel.app/api?username=Faizpi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2196f3&icon_color=2196f3&text_color=ffffff&layout=compact">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizpi&theme=tokyonight&hide_border=true&background=00000000&ring=2196f3&fire=2196f3&currStreakLabel=2196f3"/>    
 
-
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizpi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2196f3&text_color=ffffff"/>
+</div>
 
 ---
 
