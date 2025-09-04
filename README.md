@@ -40,7 +40,8 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizpi&theme=tokyonight&hide_border=true&background=00000000&ring=2196f3&fire=2196f3&currStreakLabel=2196f3"/>    
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizpi&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizpi&langs_count=10" />
+
 
 </div>
 
