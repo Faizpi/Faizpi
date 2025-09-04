@@ -46,9 +46,6 @@
        src="https://github-readme-streak-stats.herokuapp.com/?user=Faizpi&theme=tokyonight&hide_border=true&background=00000000&ring=2196f3&fire=2196f3&currStreakLabel=2196f3" 
        height="160px"/>
 
-  <!-- Spacer -->
-  <br/><br/>
-
   <!-- Languages Side by Side -->
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizpi&theme=github_dark" height="140px"/>
