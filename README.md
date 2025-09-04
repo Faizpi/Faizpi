@@ -51,8 +51,8 @@
 
   <!-- Languages Side by Side -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizpi&theme=github_dark" height="200px"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizpi&theme=github_dark" height="200px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizpi&theme=github_dark" height="140px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizpi&theme=github_dark" height="140px"/>
   </div>
 
 </div>
