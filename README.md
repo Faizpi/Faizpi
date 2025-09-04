@@ -40,7 +40,9 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizpi&theme=tokyonight&hide_border=true&background=00000000&ring=2196f3&fire=2196f3&currStreakLabel=2196f3"/>    
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizpi&langs_count=15" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizpi&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizpi&theme=github_dark" />
+
 
 
 </div>
