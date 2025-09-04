@@ -36,14 +36,24 @@
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img alt="GitHub Stats" class="w-full rounded-lg" src="https://github-readme-stats.vercel.app/api?username=Faizpi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2196f3&icon_color=2196f3&text_color=ffffff&layout=compact">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizpi&theme=tokyonight&hide_border=true&background=00000000&ring=2196f3&fire=2196f3&currStreakLabel=2196f3"/>    
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizpi&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizpi&theme=github_dark" />
+  <!-- GitHub Stats -->
+  <img alt="GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=Faizpi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2196f3&icon_color=2196f3&text_color=ffffff" 
+       height="160px"/>
 
+  <img alt="GitHub Streak" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Faizpi&theme=tokyonight&hide_border=true&background=00000000&ring=2196f3&fire=2196f3&currStreakLabel=2196f3" 
+       height="160px"/>
 
+  <!-- Spacer -->
+  <br/><br/>
+
+  <!-- Languages Side by Side -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizpi&theme=github_dark" height="200px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizpi&theme=github_dark" height="200px"/>
+  </div>
 
 </div>
 
