@@ -7,18 +7,21 @@ on:
   schedule:
     - cron: "0 4 * * *" # setiap hari jam 4 pagi UTC
 
+permissions:
+  contents: write  # penting! biar github-actions bisa push
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1
 
       - name: Set up Python 3.8
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3.8'
 
@@ -34,17 +37,13 @@ jobs:
 
       - name: Update README file
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: Faizpi
         run: python today.py
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.email "faizpi-bot@users.noreply.github.com"
           git config --global user.name "Faizpi/GitHub-Actions-Bot"
           git add .
           git commit -m "Updated README" -a || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
-
+          git push
