@@ -5,6 +5,8 @@
   </picture>
 </a>
 
+<br>
+
 <div align="center">
   <a href="https://www.instagram.com/faiz_pratama02" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
