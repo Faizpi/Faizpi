@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-<br>
+---
 
 <div align="center">
   <a href="https://www.instagram.com/faiz_pratama02" target="_blank">
