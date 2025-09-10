@@ -48,17 +48,16 @@ jobs:
           else
             echo "✅ ACCESS_TOKEN terbaca (panjang: ${#ACCESS_TOKEN} karakter)"
           fi
-      - name: Clear GitHub credentials
-        run: |
-          git config --global --unset credential.helper || true
-          git remote set-url origin https://x-access-token:${ACCESS_TOKEN}@github.com/${{ github.repository }}
-
+          
       - name: Commit and push changes
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           git config --global user.email "faizpi-bot@users.noreply.github.com"
           git config --global user.name "Faizpi-Bot"
+          git remote set-url origin https://x-access-token:${ACCESS_TOKEN}@github.com/${{ github.repository }}
+          git config --global credential.helper ""
           git add .
           git commit -m "Updated README" -a || echo "No changes to commit"
-          git push https://x-access-token:${ACCESS_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          git push origin HEAD:main
+
