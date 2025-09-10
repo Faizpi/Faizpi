@@ -45,3 +45,4 @@ set_text_by_id("loc_add", lines_added)
 set_text_by_id("loc_del", lines_deleted)
 
 tree.write("dark_mode.svg", pretty_print=True, encoding="utf-8", xml_declaration=True)
+tree.write("light_mode.svg", pretty_print=True, encoding="utf-8", xml_declaration=True)
