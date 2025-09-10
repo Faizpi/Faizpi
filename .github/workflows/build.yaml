@@ -38,6 +38,17 @@ jobs:
           USER_NAME: Faizpi
         run: python today.py
 
+      - name: Debug check token
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "❌ ACCESS_TOKEN tidak ada / kosong"
+            exit 1
+          else
+            echo "✅ ACCESS_TOKEN terbaca (panjang: ${#ACCESS_TOKEN} karakter)"
+          fi
+
       - name: Commit and push changes
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
