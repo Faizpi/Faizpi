@@ -49,4 +49,6 @@ jobs:
           git remote set-url origin https://x-access-token:${ACCESS_TOKEN}@github.com/${{ github.repository }}
           git add .
           git commit -m "Updated README" -a || echo "No changes to commit"
+          git pull --rebase origin main   # ⬅️ sync dulu biar ga konflik
           git push origin HEAD:main
+
