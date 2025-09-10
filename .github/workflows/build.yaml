@@ -48,6 +48,10 @@ jobs:
           else
             echo "✅ ACCESS_TOKEN terbaca (panjang: ${#ACCESS_TOKEN} karakter)"
           fi
+      - name: Clear GitHub credentials
+        run: |
+          git config --global --unset credential.helper || true
+          git remote set-url origin https://x-access-token:${ACCESS_TOKEN}@github.com/${{ github.repository }}
 
       - name: Commit and push changes
         env:
